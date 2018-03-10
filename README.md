@@ -1,4 +1,3 @@
-# arduino
+# My arduino projects
 
-my arduino projects
-===================
+- temp_alarm - is the simple alarm (buzzer) which activate if senson detect temperature 
